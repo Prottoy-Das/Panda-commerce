@@ -36,6 +36,27 @@
     border-radius: 10px;
 }
 
-.categories h1{
+.cateogories h1{
     color: white;
+}
+.cateogories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.contact{
+    background-color: #fceae8;
+    border-radius: 10px;
+    height: 300px;
+}
+#button-contact{
+    margin-top: 10px;
+}
+.p-footer{
+    text-align: center;
+    padding-top: 40px;
 }
